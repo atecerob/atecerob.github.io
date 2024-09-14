@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://atecerob.github.io/sitemap.html.gz
+Sitemap: https://atecerob.github.io/app/sitemap.html.gz
+Sitemap: https://atecerob.github.io/assets/sitemap.html.gz
+Sitemap: https://atecerob.github.io/css/sitemap.html.gz
+Sitemap: https://atecerob.github.io/includes/sitemap.html.gz
+Sitemap: https://atecerob.github.io/item/sitemap.html.gz
+Sitemap: https://atecerob.github.io/src/sitemap.html.gz
